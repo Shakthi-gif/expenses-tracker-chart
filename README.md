@@ -9,7 +9,7 @@ A web application to track daily expenses and visualize spending using a dynamic
 
 
 
-🔗 **Live Site**: [Try It Here](https://your-live-site-link.netlify.app) 
+🔗 **Live Site**:  
 
 ---
 
